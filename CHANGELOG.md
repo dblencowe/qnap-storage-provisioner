@@ -1,0 +1,10 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 1.0.1 (2022-05-07)
+
+
+### Features
+
+* enable automatic building of provisioner using github actions ([58e0c93](https://github.com/dblencowe/qnap-storage-provisioner/commit/58e0c937262b8269556d07d7188464329fed64de))
