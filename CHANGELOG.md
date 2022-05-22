@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/dblencowe/qnap-storage-provisioner/compare/v1.0.3...v1.0.4) (2022-05-22)
+
+
+### Features
+
+* update version of go used in build pipeline to 1.17 ([1f71beb](https://github.com/dblencowe/qnap-storage-provisioner/commit/1f71bebd0e77d3d1ce619ab9b281d6c089a52815))
+
 ### [1.0.3](https://github.com/dblencowe/qnap-storage-provisioner/compare/v1.0.2...v1.0.3) (2022-05-22)
 
 
