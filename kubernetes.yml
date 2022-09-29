@@ -74,7 +74,7 @@ metadata:
 spec:
   containers:
     - name: qnap-storage-provisioner
-      image: nineliveslater/qnap-storage-provisioner:master
+      image: dblencowe/qnap-storage-provisioner:latest
       imagePullPolicy: "IfNotPresent"
       env:
         - name: QNAP_URL
